@@ -1,0 +1,18 @@
+
+body{
+  text-align: center;
+  align-items: center;
+  background-color: #76a6fa;
+}
+
+.App-header {
+  /*background-color: #282c34;*/
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  font-size:xx-large;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  
+}
+
